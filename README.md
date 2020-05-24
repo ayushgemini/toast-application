@@ -1,7 +1,7 @@
 # Toast Application
 Hey folks, This is the Toast Application Project. In this project you will learn how you can customize your Toast in Android.
 
-![alt text]()
+![alt text](https://github.com/ayushgemini/toast-application/blob/master/Screenshot_2020-05-24-16-03-00-715_com.geminisoftservices.toast.jpg)
 
 ## Usage
 
